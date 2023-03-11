@@ -59,7 +59,6 @@ Sometimes a test will require private user data or information that shouldn't be
 
 1. Download the project to your local machine.
 2. Open IntelliJ, select File –> Open, and select the project to open it.
-3. Under automation-base/resources there is a config.properties file where important settings (such as the OS, browser, environment, and testing endpoint) are set.
 
 ## Acknowledgement
 
