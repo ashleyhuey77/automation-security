@@ -35,10 +35,6 @@ automation-security is a project that handles all encryption and decryption of c
   - [Information](#information)
     - [Tools Required](#tools-required)
     - [Installation](#installation)
-  - [Development](#development)
-      - [Test Tools](#test-tools)
-      - [Misc Tools](#misc-tools)
-      - [Features](#features)
   - [Acknowledgement](#acknowledgement)
 
 ## Introduction
